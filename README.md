@@ -1,4 +1,4 @@
-# Adhoc Internship - Login & Signup Project
+# Adhoc Internship - CampusConnect
 
 A clean, modern, and secure user authentication web application featuring fully functional Login and Signup pages built with React.
 
